@@ -27,7 +27,7 @@
     "express": "~3.4.7",
     "envify": "~1.2.1",
     "react": "~0.10.0",
-    "react-router-component": "~0.18.2",
+    "react-router-component": "~0.40.0",
     "negotiator": "~0.4.3",
     "after-brunch": "0.0.4",
     "prelude-ls": "~1.1.1",
