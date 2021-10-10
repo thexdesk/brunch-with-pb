@@ -26,7 +26,7 @@
     "clean-css-brunch": ">= 1.0 < 1.5",
     "express": "~3.4.7",
     "envify": "~1.2.1",
-    "react": "~0.10.0",
+    "react": "~0.14.10",
     "react-router-component": "~0.18.2",
     "negotiator": "~0.4.3",
     "after-brunch": "0.0.4",
