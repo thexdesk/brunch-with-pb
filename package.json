@@ -22,7 +22,7 @@
     "css-brunch": ">= 1.0 < 1.5",
     "stylus-brunch": ">= 1.0 < 1.5",
     "jade-brunch": ">= 1.0 < 1.5",
-    "uglify-js-brunch": ">= 1.0 < 1.5",
+    "uglify-js-brunch": ">=1.7.8",
     "clean-css-brunch": ">= 1.0 < 1.5",
     "express": "~3.4.7",
     "envify": "~1.2.1",
